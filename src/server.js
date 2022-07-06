@@ -6,7 +6,7 @@ module.exports = () =>{
         data.products.push({
             id:i+1,
             price:80,
-            title:`Camiseta ${i+1}`
+            title:`camiseta ${i+1}`
         })
 
     }
