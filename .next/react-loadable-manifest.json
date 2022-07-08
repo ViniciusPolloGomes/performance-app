@@ -1,1 +1,8 @@
-{}
+{
+  "..\\components\\ProductItem.tsx -> ./AddProductToWishlist": {
+    "id": "..\\components\\ProductItem.tsx -> ./AddProductToWishlist",
+    "files": [
+      "static/chunks/src_components_AddProductToWishlist_tsx.js"
+    ]
+  }
+}
